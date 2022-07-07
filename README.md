@@ -7,8 +7,11 @@ ALBでのDNSによる接続
 ![bandicam 2022-07-04 14-45-42-735](https://user-images.githubusercontent.com/105532255/177515881-ef180d0d-d5d0-4493-be97-9322a265e53d.jpg)
 
 S3
-![bandicam 2022-07-06 18-14-32-640](https://user-images.githubusercontent.com/105532255/177515916-c524447e-48b4-41c7-9fa6-d54faebf6323.jpg)
-![bandicam 2022-07-06 18-13-28-858](https://user-images.githubusercontent.com/105532255/177515921-e2903167-e4f6-4936-82be-875171728fdc.jpg)
+![bandicam 2022-07-07 14-43-54-706](https://user-images.githubusercontent.com/105532255/177700406-1c7df320-e31d-4953-93a4-723b2d727721.jpg)
+![bandicam 2022-07-07 14-43-22-105](https://user-images.githubusercontent.com/105532255/177700415-93b2a849-e015-42f7-9570-7da0e01760a4.jpg)
+![bandicam 2022-07-07 14-43-03-999](https://user-images.githubusercontent.com/105532255/177700424-0ac08450-f91b-4ff6-9a5a-47e09648c2c2.jpg)
+![bandicam 2022-07-07 14-43-34-131](https://user-images.githubusercontent.com/105532255/177700434-494d46ed-d8e6-4df2-a371-5471480c1f96.jpg)
+
 
 構成図
-![TASK5 drawio](https://user-images.githubusercontent.com/105532255/177517208-a7a94eae-6443-482e-a59f-79ed39caa0fa.png)
+![TASK5-2](https://user-images.githubusercontent.com/105532255/177700509-f184f75a-78bd-4311-9c32-1322d58b185a.png)
