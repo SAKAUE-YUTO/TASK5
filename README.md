@@ -1,6 +1,6 @@
 # TASK5
 
-
+WEBサーバーおよびアプリケーションサーバー追加による、ポート番号指定なし。IPのみ参照。
 ![bandicam 2022-07-04 12-40-55-319](https://user-images.githubusercontent.com/105532255/177515816-7d70764d-fd89-4764-9d2a-3c894620791b.jpg)
 
 ALBでのDNSによる接続
